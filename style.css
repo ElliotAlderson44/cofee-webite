@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: cursive;
+}
+.img-set img {
+  height: 92.7vh;
+  width: 100%;
+}
